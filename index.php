@@ -135,8 +135,6 @@ $gestionDesContacts = new MaConnexion("gestion des contacts", "", "root", "local
             </form>';
             }
         ?>
-
-
     </main>
 
     <footer>
